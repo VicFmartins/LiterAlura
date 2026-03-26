@@ -76,7 +76,7 @@ Usuário escolhe uma opção no console
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/VicFmartins/LiterAlura.git
+git clone <url-do-repositorio>
 cd LiterAlura
 ```
 
